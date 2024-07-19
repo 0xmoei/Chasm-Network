@@ -94,6 +94,9 @@ To save .env file and exit: `Ctrl + X + Y` , `Enter`
 
 ### 5-3: Run the scout
 ```console
+# Open Port
+ufw allow 3001
+
 # Pull the code from DockerHub
 docker pull chasmtech/chasm-scout
 
