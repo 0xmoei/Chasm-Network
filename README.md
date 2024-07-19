@@ -1,5 +1,12 @@
 # Chasm-Network
 
+We run a node on Chasm Network and collect points
+
+## System Requirements (Minimum-Recommended)
+| Ram | cpu     | disk                      |
+| :-------- | :------- | :-------------------------------- |
+| `1 GB`      | `1 Core` | `5-20 GB SSD` |
+
 ## Step 1: Mint NFT to Get Scout ID and API Key 
 Visit https://scout.chasm.net/private-mint
 
