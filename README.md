@@ -129,7 +129,12 @@ docker logs scout
 ### Check leaderboard
 https://scout.chasm.net/leaderboard
 
-### Kill and stop docker
+### Optional: Kill and stop docker
 ```console
 docker stop scout && docker rm scout
+```
+
+### Optional: Restart Docker
+```console
+docker restart scout
 ```
