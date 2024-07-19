@@ -10,6 +10,8 @@ We run a node on Chasm Network and collect points
 ## Step 1: Mint NFT to Get Scout ID and API Key 
 Visit https://scout.chasm.net/private-mint
 
+You need 0.3 $MNT on Mantle network in your wallet, you can obtain from [squid](https://app.squidrouter.com/)
+
 ![Screenshot_100](https://github.com/user-attachments/assets/76c84ff6-656f-4c61-9420-fb345e0a6040)
 
 
