@@ -104,14 +104,15 @@ docker pull johnsonchasm/chasm-scout
 docker run -d --restart=always --env-file ./.env -p 3001:3001 --name scout johnsonchasm/chasm-scout
 ```
 
-### 5-4: Verify
-Test Server Response:
+## 6: Verify
+
+### 6-1: Test Server Response:
 ```console
 # Should get "OK" response
 curl localhost:3001
 ```
 
-### 5-5: Test LLM
+### 6-2: Test LLM
 ```console
 source ./.env
 curl -X POST \
@@ -121,7 +122,7 @@ curl -X POST \
      $WEBHOOK_URL
 ```
 
-### 5-6: Logs
+### 6-3: Logs
 ```console
 docker logs scout
 ```
