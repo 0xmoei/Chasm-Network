@@ -64,7 +64,7 @@ Copy the following config in your `.env` file and then update following variable
 - `SCOUT_NAME`: Your favorite scout name
 - `SCOUT_UID`: From Step 1: Mint NFT
 - `WEBHOOK_API_KEY`: From Step 1: Mint NFT
-- `WEBHOOK_URL`: Replace your http://<ip>:<PORT> | Update based on your server's IP and Port | e.g. http://123.123.123.123:3001/
+- `WEBHOOK_URL`: Replace your http://<ip>:<PORT> | Update with your vps's IP and port | e.g. http://x.x.x.x:3001/
 - `GROQ_API_KEY`: From Step 2: Get Groq API Key
 - `OPENROUTER_API_KEY`: Step 3 (optional)
 - `OPENAI_API_KEY`: Step 3 (optional)
