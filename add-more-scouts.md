@@ -20,11 +20,11 @@ nano 2.env
 ```
 
 You Must update a few things in new 2.env file
-`PORT=` Change 3001 to 3002
-`SCOUT_NAME=` New favorite name
-`SCOUT_UID=` New one from Step 1: Mint NFT
-`WEBHOOK_API_KEY=` New one from Step 1: Mint NFT
-`WEBHOOK_URL=` Change port: 3001 to 3002
+* `PORT=` Change 3001 to 3002
+* `SCOUT_NAME=` New favorite name
+* `SCOUT_UID=` New one from Step 1: Mint NFT
+* `WEBHOOK_API_KEY=` New one from Step 1: Mint NFT
+* `WEBHOOK_URL=` Change port: 3001 to 3002
 
 Add this code to the end of the .env file
 ```console
