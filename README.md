@@ -89,13 +89,15 @@ GROQ_API_KEY=
 # Optional
 OPENROUTER_API_KEY=
 OPENAI_API_KEY=
+
+NODE_ENV=production
 ```
 To save .env file and exit: `Ctrl + X + Y` , `Enter`
 
 ### 5-3: Run the scout
 ```console
 # Open Port
-ufw allow 3001
+sudo ufw allow 3001
 
 # Pull the code from DockerHub
 docker pull johnsonchasm/chasm-scout
